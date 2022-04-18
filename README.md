@@ -2,3 +2,5 @@
 [![Actions Status](https://github.com/salisa14/frontend-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/salisa14/frontend-project-lvl2/actions)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/8627568d20f153af078d/maintainability)](https://codeclimate.com/github/salisa14/frontend-project-lvl2/maintainability)
+
+[![node-CI](https://github.com/salisa14/frontend-project-lvl2/actions/workflows/github-actions.yml/badge.svg)](https://github.com/salisa14/frontend-project-lvl2/actions/workflows/github-actions.yml)
