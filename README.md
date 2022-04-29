@@ -3,6 +3,8 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/8627568d20f153af078d/maintainability)](https://codeclimate.com/github/salisa14/frontend-project-lvl2/maintainability)
 
+[![Test Coverage](https://api.codeclimate.com/v1/badges/8627568d20f153af078d/test_coverage)](https://codeclimate.com/github/salisa14/frontend-project-lvl2/test_coverage)
+
 [![node-CI](https://github.com/salisa14/frontend-project-lvl2/actions/workflows/github-actions.yml/badge.svg)](https://github.com/salisa14/frontend-project-lvl2/actions/workflows/github-actions.yml)
 
 # Gendiff command
