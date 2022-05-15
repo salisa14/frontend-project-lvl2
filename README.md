@@ -20,3 +20,7 @@ $ gendiff filepath1.json filepath2.json
 [![asciicast](https://asciinema.org/a/TVrtZUW1P8Zprw0hV23pRgx57.svg)](https://asciinema.org/a/TVrtZUW1P8Zprw0hV23pRgx57)
 
 
+## How it works with different file extensions 
+
+[![asciicast](https://asciinema.org/a/VPFrE6NE1GOg6riG6gxQW84rm.svg)](https://asciinema.org/a/VPFrE6NE1GOg6riG6gxQW84rm)
+
